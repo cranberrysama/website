@@ -49,17 +49,16 @@ education:
       The thesis is _CVaR模型在中国资本市场的应用_.
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate Assistant of Research
+    company_name: Department of Agricultural Economics, TAMU
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2017
     date_end: ''
-    summary: |2-
+    summary: supervised by Dr.McCarl
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Collect data and employ GAMS to model international dairy product trade.
+     
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
