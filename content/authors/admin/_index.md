@@ -32,18 +32,7 @@ profiles:
     label: E-mail Me
  
 
-education:
-  - area: PhD Candidate in Agricultural Economics
-    institution: Texas A&M University
-    date_start: 2016
-    date_end: 2024
-    Dissertation： Three Thesis on the Labor market， financial market, and online auction market
-    Advisor： Yu (Yvette) Zhang
-  - area: BSc in Finance
-    institution: SWUFE(西南财经大学)
-    date_start: 2011
-    date_end: 2025
-    Dissertation：CVaR模型在中国资本市场的应用
+
 
 work:
   - position: Director of Cloud Infrastructure
