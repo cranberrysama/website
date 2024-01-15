@@ -49,15 +49,15 @@ education:
       The thesis is _CVaR模型在中国资本市场的应用_.
 
 work:
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Graduate Assistant of Research
+    company_name: Department of Agricultural Economics 
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-01-01
+    date_end: 2020-06-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
+      - Collecting data and modeling for analyzing international trade of dairy products 
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # Skills
