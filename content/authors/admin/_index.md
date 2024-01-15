@@ -38,7 +38,7 @@ education:
     date_start: 2016
     date_end: 2024
     Dissertation： Three Thesis on the Labor market， financial market, and online auction market
-    Advisor：Yu (Yvette) Zhang
+    Advisor： Yu (Yvette) Zhang
   - area: BSc in Finance
     institution: SWUFE(西南财经大学)
     date_start: 2011
