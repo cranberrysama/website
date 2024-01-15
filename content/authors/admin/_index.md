@@ -54,12 +54,11 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2017-01-01
-    date_end: 2020-06-31
+    date_end: 2017-06-31
     summary: |
       Responsibilities include:
       - Collecting data and modeling for analyzing international trade of dairy products 
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Supervised by Dr.McCarl
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
