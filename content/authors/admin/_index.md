@@ -32,8 +32,7 @@ profiles:
     label: E-mail Me 
   - icon: brands/linkedin
     url: www.linkedin.com/in/mengqiao-liu-156162128
-
-
+    
 education:
   - area: PhD in Agricultural Economics
     institution: Texas A&M university
@@ -41,9 +40,7 @@ education:
     date_end: 2024
     summary: |
       Thesis on _Chinese Labor Market, the gold market and online aution_. Supervised by [Yu Yvette Zhang](https://sites.google.com/view/yvette-zhang). Presented papers at 2 AAEA conferences, with the papers being under review in 2 SSCI journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
