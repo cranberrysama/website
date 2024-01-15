@@ -34,12 +34,12 @@ profiles:
     url: www.linkedin.com/in/mengqiao-liu-156162128
  
 education:
-  - area: PhD in Agricultural Economics
-    institution: Texas A&M university
-    date_start: 2016
-    date_end: 2024
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Thesis on the labor market, the gold market, and online auction. Supervised by [Yu Yvette Zhang](https://sites.google.com/view/yvette-zhang). Presented papers at 2 AAEA conferences, with papers under review by 2 SSCI journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
