@@ -49,17 +49,6 @@ education:
       The thesis is _CVaR模型在中国资本市场的应用_.
 
 work:
- - position: Graduate Assistant of Research
-    company_name: Department of Agricultural Economics, TAMU  
-    company_url: ''
-    company_logo: ''
-    date_start: 2017
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - Collect data and employ GAMS to model international dairy product trade.
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - Supervised by Dr.McCarl
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
