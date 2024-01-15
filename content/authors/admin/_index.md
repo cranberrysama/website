@@ -40,6 +40,9 @@ education:
     date_end: 2024
     summary: |
       Thesis on the labor market, the gold market, and online auction. Supervised by [Yu Yvette Zhang](https://sites.google.com/view/yvette-zhang). Presented papers at 2 AAEA conferences, with papers under review by 2 SSCI journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
      - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
