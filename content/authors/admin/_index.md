@@ -61,15 +61,16 @@ work:
       Supervised by Dr.McCarl
 
   - position: Graduate Assistant of Research
-    company_name: Department of Agricultural Economics 
+    company_name: Department of Agricultural Economics - USDA - Borlaug Institute
     company_url: ''
     company_logo: ''
-    date_start: 2017-01-01
-    date_end: 2017-06-31
+    date_start: 2022
+    date_end: 2023
     summary: |
       Responsibilities include:
-      - Collecting data and modeling for analyzing international trade of dairy products 
-      Supervised by Dr.McCarl
+      - Searching for topic related paper and Data extraction
+      - Risk of Bias assessments
+      Supervised by Dr.Ishdorj
   
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
