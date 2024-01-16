@@ -81,7 +81,7 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket
-        - name: R
+      - name: R
         description: ''
         percent: 100
         icon: code-bracket
