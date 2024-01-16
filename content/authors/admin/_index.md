@@ -68,9 +68,9 @@ work:
     date_end: 2023
     summary: |
       Responsibilities include:
-      - Search and data extraction for related studies
-      - Bias analysis
+      - Search and data extraction for related studies, Bias analysis
       Supervised by Dr. Ishdorj
+  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
