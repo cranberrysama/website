@@ -59,22 +59,38 @@ work:
       Responsibilities include:
       - Collecting data and modeling for analyzing international trade of dairy products 
       Supervised by Dr.McCarl
+
+- position: Graduate Assistant of Research
+    company_name: Department of Agricultural Economics +  USDA-Borlaug Institute
+    company_url: ''
+    company_logo: ''
+    date_start: 2022
+    date_end: 2023
+    summary: |
+      Responsibilities include:
+      - Search and data extraction for related studies
+      - Bias analysis
+      Supervised by Dr. Ishdorj
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Matlab
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+        - name: SAS
         description: ''
-        percent: 40
+        percent: 80
+        icon: chart-bar
+      - name: Python
+        description: ''
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
