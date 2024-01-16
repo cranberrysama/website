@@ -65,21 +65,17 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Matlab
-        description: ''
-        percent: 100
-        icon: code-bracket
-      - name: R
-        description: ''
-        percent: 100
-        icon: chart-bar
-        - name: SAS
-        description: ''
-        percent: 80
-        icon: chart-bar
       - name: Python
         description: ''
-        percent: 60
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
