@@ -46,7 +46,7 @@ education:
     date_start: 2011
     date_end: 2015
     summary: |
-      The thesis is _CVaR模型在中国资本市场的应用_.
+      Thesis: _CVaR模型在中国资本市场的应用_.
 
 work:
   - position: Graduate Assistant of Research
